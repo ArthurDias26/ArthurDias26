@@ -1,6 +1,6 @@
 # 👨‍💻 Arthur Dias
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Arthur Barbosa Dias, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho conhecimento no desenvolvimento front-end, e estou sempre em busca de aprimorar minhas habilidades. Acredito que a tecnologia tem o poder de transformar ideias em soluções que fazem a diferença, e estou determinado a construir uma carreira sólida nessa área.
 
